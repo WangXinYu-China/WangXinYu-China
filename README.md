@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WangXinYu-China
-- 👀 I’m interested in ern money
+- 👀 I’m interested in earn money
 - 🌱 I’m currently learning python typeScript mySql ...
 - 💞️ I’m looking to collaborate on earn money 
 - 📫 How to reach me calmlife1666060@163.com
